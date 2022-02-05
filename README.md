@@ -10,10 +10,6 @@ You need to have these packages installed for it to work:  fastai, pytorch, voil
 On Linux, You can use "pip" to install them. I always use "pip" with "--user" option in order to limit it to the user installations because it has a tendency to mess-up the system packages if used as root. For system wide installations using root, I recommend using your package manager.
 
 
-I will update the README file in next few days by answering these questions:
+-- I stooped doing Deep Learning for now ---
 
-    What the project does
-    Why the project is useful
-    How users can get started with the project
-    Where users can get help with your project
-    Who maintains and contributes to the project
+Reason is the my interest in getting into industrial work, which is more about usability of data cleaning, EDA, ML models, deployment, and produciton. These are the real problems that current industry is facing. Hence it's only one chapter from the deep learning book I worked on.
