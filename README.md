@@ -12,4 +12,4 @@ On Linux, You can use "pip" to install them. I always use "pip" with "--user" op
 
 -- I stooped doing Deep Learning for now ---
 
-Reason is the my interest in getting into industrial work, which is more about usability of data cleaning, EDA, ML models, deployment, and produciton. These are the real problems that current industry is facing. Hence it's only one chapter from the deep learning book I worked on.
+Reason is the my interest in getting into industrial work, which is more about data cleaning, EDA, usability of  ML models, deployment, and produciton. If one can solve a problem using simpler models then it's better than using a complex and complicated models. These are the real problems that current industry is facing. Hence it's only one chapter from the deep learning book I worked on.
